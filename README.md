@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Computer engineering, Complex Algorithms and clean coding**
 
-- 📫 How to reach me **sez876@usask.ca**
+- 📫 How to reach me **sez876@usask.ca / inquiry@mhananda.info**
 
 - 📄 Know about my experiences [https://github.com/hamid-ananda/resume/blob/main/Mahafujul_Hamid_Ananda_Resume.pdf](https://github.com/hamid-ananda/resume/blob/main/Mahafujul_Hamid_Ananda_Resume.pdf)
 
